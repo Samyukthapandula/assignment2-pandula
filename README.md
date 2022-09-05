@@ -17,3 +17,8 @@ The Museum also contains several galleries on the **post-war era** and the histo
 9. Turn right onto Jefferson Barracks Rd
 10. Continue onto Sherman Ave.
 11. Turn left onto Worth Rd and your desitination will be on the left.
+
+I would also recommend to visit below places when you visit Missouri Civil War Museum
+* Jefferson Barracks Telephone Museum
+* Jefferson Barracks Park
+* Soldiers Memorial Military Museum
