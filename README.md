@@ -24,3 +24,14 @@ I would also recommend to visit below places when you visit Missouri Civil War M
 * Soldiers Memorial Military Museum
 
 [link to About me page](AboutMe.md)
+
+----
+# Cities and important Locations to visit
+
+Table below describes the important cities in India and the historical places to visit in the cities and amount of time to be spent in each location to explore the place.
+| City Name | Location in the city | Time to be spent |
+| --- | --- | --- |
+| Mumbai | Gate way of India | 2 hours |
+| Agra | Taj Mahal | 5 hours |
+| Amritsar | Golden temple | 1 hour |
+| Mysuru | Mysore Palace | 2.5 hours |
