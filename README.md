@@ -22,3 +22,5 @@ I would also recommend to visit below places when you visit Missouri Civil War M
 * Jefferson Barracks Telephone Museum
 * Jefferson Barracks Park
 * Soldiers Memorial Military Museum
+
+[link to About me page](AboutMe.md)
