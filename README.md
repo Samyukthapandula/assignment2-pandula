@@ -42,3 +42,26 @@ Table below describes the important cities in India and the historical places to
 > When you feel like quitting, Remember why you started. - *Ms Jeni JH*
 
 > Bold attempt is half success. -*Ammar B*
+
+---
+# code to set exipiry in Htaccess
+
+> Adding Expires Headers and .htaccess
+
+<https://stackoverflow.com/questions/21604277/adding-expires-headers-and-htaccess>
+
+```
+< IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 10 days"
+    ExpiresByType text/css "access plus 1 week"
+    ExpiresByType text/plain "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType application/x-javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 week"
+    ExpiresByType application/x-icon "access plus 1 year"
+</IfModule>
+```
+<https://css-tricks.com/snippets/htaccess/set-expires/>
