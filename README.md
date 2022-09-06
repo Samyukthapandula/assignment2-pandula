@@ -35,3 +35,10 @@ Table below describes the important cities in India and the historical places to
 | Agra | Taj Mahal | 5 hours |
 | Amritsar | Golden temple | 1 hour |
 | Mysuru | Mysore Palace | 2.5 hours |
+
+---
+# Inspiring quotes and their authors
+
+> When you feel like quitting, Remember why you started. - *Ms Jeni JH*
+
+> Bold attempt is half success. -*Ammar B*
